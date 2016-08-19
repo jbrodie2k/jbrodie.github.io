@@ -1,0 +1,21 @@
+variables represent information
+-score in a game
+-turn in  game
+-Mode(paint vs pencil)
+-statistics
+ strings- a sentence of characters, collection of characters
+strings need quotes around them because without the quote, they would think the word is a variable
+
+PYTHON VARIABLES
+X=5
+this is called assignment, think of the equal sign as an "is"
+
+Loops will repeat things in certain ways
+repeat exactly in number of times
+repeat until something is true
+
+python loops
+i = 0
+while i < 5
+print ("All Star Code")
+i=i+1
